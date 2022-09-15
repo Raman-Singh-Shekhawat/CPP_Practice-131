@@ -22,7 +22,7 @@
     };
 
 ************************************************************/
-
+// Some documentation
 int getLeafNodeCount(TreeNode<int> *root)
 {
 
